@@ -46,13 +46,6 @@ I'm an insightful and solutions-oriented data enthusiast with a Master's in Data
 
 🔄 Actively participates in meetups across London, including MLOps, data science, and PyData, to expand my network and stay updated on industry trends.  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
 <br/>  
 
 
