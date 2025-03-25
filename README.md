@@ -1,5 +1,4 @@
-## Hey 👋, I'm Hasitha Sai Kutala   
-
+## Hey
 ### Glad to see you here!  
 
 
